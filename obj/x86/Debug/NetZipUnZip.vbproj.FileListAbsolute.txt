@@ -1,0 +1,43 @@
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.exe.config
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.exe
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.pdb
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.xml
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.exe
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.xml
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.pdb
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\bin\Debug\Ionic.Zip.dll
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\bin\Debug\Ionic.Zip.pdb
+C:\Users\zhongzq\documents\visual studio 2010\Projects\NetZipUnZip\NetZipUnZip\bin\Debug\Ionic.Zip.xml
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.exe.config
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.exe
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.xml
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.pdb
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.exe
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.pdb
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.xml
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\个人文档\VB.Net开发\NetZipUnZip\NetZipUnZip\bin\Debug\Ionic.Zip.dll
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.exe.config
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.exe
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.xml
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.pdb
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.exe
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.pdb
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\bin\Debug\NetZipUnZip.xml
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\bin\Debug\Ionic.Zip.dll
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.vbprojResolveAssemblyReference.cache
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\obj\x86\Debug\NetZipUnZip.vbproj.GenerateResource.Cache
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\代码\钟贞庆\NetZipUnZip\NetZipUnZip\bin\Debug\MySql.Data.dll
